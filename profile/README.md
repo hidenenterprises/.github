@@ -7,7 +7,6 @@ Technology company operating through multiple brands, building cloud infrastruct
 | Product | Domain | Description |
 |---------|--------|-------------|
 | HidenCloud | [hidencloud.com](https://hidencloud.com) | Cloud hosting and infrastructure services |
-| HidenCloud New | [new.hidencloud.com](https://new.hidencloud.com) | Next generation cloud platform |
 | HidenAI | [hidenai.com](https://hidenai.com) | Artificial intelligence solutions |
 | HidenVerse | [hidenverse.com](https://hidenverse.com) | Metaverse and gaming experiences |
 | HidenPartners | [hidenpartners.com](https://hidenpartners.com) | Partner and reseller program |
