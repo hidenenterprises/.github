@@ -1,21 +1,21 @@
 # .github
 
-Perfil público de la organización hidenenterprises en GitHub.
+Public profile of the hidenenterprises organization on GitHub.
 
-GitHub muestra `profile/README.md` a cualquiera que entra en https://github.com/hidenenterprises. El `SECURITY.md` de este repo es también la política de seguridad por defecto de los repos públicos de la organización que no tengan la suya.
+GitHub shows `profile/README.md` to anyone who visits https://github.com/hidenenterprises. The `SECURITY.md` in this repo is also the default security policy for the organization's public repos that don't have their own.
 
 ## Stack
 
-- Markdown. No hay código ni despliegue: GitHub lee `profile/README.md` directamente de la rama `main`.
+- Markdown. There's no code or deployment: GitHub reads `profile/README.md` straight from the `main` branch.
 
-## Estructura
+## Structure
 
-- `profile/README.md`: perfil público de la organización.
-- `SECURITY.md`: política de seguridad.
-- `.github/CODEOWNERS`: dueño del repo.
+- `profile/README.md`: public profile of the organization.
+- `SECURITY.md`: security policy.
+- `.github/CODEOWNERS`: repo owner.
 
-## Licencia y seguridad
+## License and security
 
-Repositorio público de HIDENENTERPRISES SL. Que se pueda ver no da derecho a usarlo: no se permite copiar, usar ni distribuir su contenido sin autorización por escrito. Ver [LICENSE.md](LICENSE.md).
+Public repository of HIDENENTERPRISES SL. Being able to see it doesn't give you the right to use it: you may not copy, use or distribute its content without written permission. See [LICENSE.md](LICENSE.md).
 
-Para reportar una vulnerabilidad o cualquier problema de seguridad, escribe a [security@hidenenterprises.com](mailto:security@hidenenterprises.com). Más detalles en [SECURITY.md](SECURITY.md).
+To report a vulnerability or any other security issue, email [security@hidenenterprises.com](mailto:security@hidenenterprises.com). See [SECURITY.md](SECURITY.md) for details.
