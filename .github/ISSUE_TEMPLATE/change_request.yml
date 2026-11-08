@@ -1,0 +1,28 @@
+name: Change request
+description: A new feature, an improvement or a change in behaviour.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What should change
+      description: What the product should do that it does not do today.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: The problem it solves or the decision behind it. Link the plan, the document or the message where it was decided.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and limits
+      description: What is in, what is out, and anything that changes limits, timings, money, users, customer-facing texts or what is sanctioned automatically.
+  - type: textarea
+    id: done
+    attributes:
+      label: How we know it is done
+      description: What to check, and where (environment, URL, command).
